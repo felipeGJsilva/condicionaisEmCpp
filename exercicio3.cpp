@@ -7,9 +7,9 @@ int main(){
     scanf("%d", &num);
 
     if(num >= 0){
-        printf("O número digitado é positivo ou igual a zero \n");
+        printf("O número  é positivo ou igual a zero \n");
     } else{
-        printf("O número digitado é negativo \n");
+        printf("O número  é negativo \n");
     }
 
     return 0;
